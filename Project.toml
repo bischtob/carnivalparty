@@ -1,0 +1,4 @@
+name = "carnivalparty"
+uuid = "222fe538-5e36-464d-96c2-a9405ebe3c2d"
+authors = ["tobias.bischoff@pm.me <bischtob@gmail.com>"]
+version = "0.1.0"
